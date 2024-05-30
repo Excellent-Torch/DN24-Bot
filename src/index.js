@@ -14,7 +14,7 @@ client.on('ready', (c) => {
     console.log(`${c.user.tag} is online.`);
 
     client.user.setActivity({
-        name: 'DN24',
+        name: 'DN24 BRRRRRRRRRRRRRR',
     });
 });
 
