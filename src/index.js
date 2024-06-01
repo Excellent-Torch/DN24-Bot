@@ -112,7 +112,7 @@ client.on('messageCreate', (message) => {
    }
 
   if (message.content === 'Excellent') {
-   message.reply('Excellent_Torch is an OG and is an amazing games developer');
+   message.reply('Excellent_Torch is an OG and is an amazing developer');
   }
 });
 
