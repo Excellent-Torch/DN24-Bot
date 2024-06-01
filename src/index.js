@@ -80,7 +80,7 @@ client.on('messageCreate', (message) => {
 }
 
    if (message.content === 'Thai') {
-    message.reply('Thai loves Hex, isnt he a cutie');
+    message.reply('Thai is loots favourite');
    }
    
    if (message.author.bot) {
